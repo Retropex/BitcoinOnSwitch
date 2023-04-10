@@ -29,11 +29,10 @@ If your Switch is patched you can still use this guide however your Switch will 
 
 Pour commencer il faut faire entrer votre Switch en mode RCM pour cela on va utilser le RCM jig :
 
-1) Faite glisser le jig sur le port droit de la Switch.
-<img src="./Pitcures/Switch jig.jpeg" width="50%" height="50%" />
-3) Hold the `Vol+` button.
-4) While holding the `VOL+` button and press the `Power` button.
-5) Release all the buttons.
+1) Drag the jig on the [right port](https://github.com/Retropex/BitcoinOnSwitch/blob/main/Pitcures/Switch%20jig.jpeg) of the Switch.
+2) Hold the `Vol+` button.
+3) While holding the `VOL+` button and press the `Power` button.
+4) Release all the buttons.
 
 If your Switch turned on when you press the Power button, it may be that your jig is not pressed enough in the right port or that your Switch is patched.
 If after released all the buttons, the screen of your Switch remained black, it is because the operation probably went well.
@@ -41,3 +40,17 @@ If after released all the buttons, the screen of your Switch remained black, it 
 Now we are going to inject a payload!
 
 ### Inject payload
+
+This part depends on your OS and the software you use.
+
+Here is a list of those you can use:
+-  [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI)(Windows)
+-  [JTegraNX](https://github.com/dylwedma11748/JTegraNX)(Windows/macOS/Linux)
+-  [NXloader](https://github.com/DavidBuchanan314/NXLoader)(Android)
+
+Using the software you have chosen, you will have to inject the `Hekate` payload.
+
+For most software, all you have to do is press a button to inject the payload. I'll let you refer to the documentation of the chosen software.
+
+You should come across this screen:
+
