@@ -30,7 +30,7 @@ If your Switch is patched you can still use this guide however your Switch will 
 Pour commencer il faut faire entrer votre Switch en mode RCM pour cela on va utilser le RCM jig :
 
 1) Faite glisser le jig sur le port droit de la Switch.
-<img src="./Pictures/Switch-jig.jpeg" width="50%" height="50%" />
+<img src="./Pitcures/Switch jig.jpeg" width="50%" height="50%" />
 3) Hold the `Vol+` button.
 4) While holding the `VOL+` button and press the `Power` button.
 5) Release all the buttons.
