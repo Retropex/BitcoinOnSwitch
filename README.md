@@ -66,3 +66,7 @@ You should come across this screen:
 4) Unzip the `Ubuntu bionic` archive and copy it to the SD card. (You can remove the SD card without switching off the Switch)
 5) Now go to `Tools` -> `Partition SD Card` -> `Flash linux`.
 6) Finally go in `home` -> `Nyx options` -> `Dump Joy-con BT`
+
+### Boot Linux
+
+Maintenant linux devrait pouvoir démarer 
