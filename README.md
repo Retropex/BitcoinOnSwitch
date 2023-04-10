@@ -29,10 +29,10 @@ If your Switch is patched you can still use this guide however your Switch will 
 
 Pour commencer il faut faire entrer votre Switch en mode RCM pour cela on va utilser le RCM jig :
 
-1) Drag the jig on the right port of the Switch.
-2) Hold the `Vol+` button.
-3) While holding the `VOL+` button and press the `Power` button.
-4) Release all the buttons.
+1. Drag the jig on the right port of the Switch.
+2. Hold the `Vol+` button.
+3. While holding the `VOL+` button and press the `Power` button.
+4. Release all the buttons.
 
 If your Switch turned on when you press the Power button, it may be that your jig is not pressed enough in the right port or that your Switch is patched.
 If after released all the buttons, the screen of your Switch remained black, it is because the operation probably went well.
@@ -60,13 +60,13 @@ You should come across this screen:
 
 **_Be careful_, all the data on your SD card will be erased, it is recommended to use an SD card specifically for this use.**
 
-1) Insert the SD card into the Switch. (If it's not already done)
-2) Go to `Tools` -> `Partition SD Card`.
-3) Click on `ok` to preserve the files on the card. 
-4) Partition the SD card according to the needs of your node, EXT4 is for linux, And FAT32 must be at least 10GB. 
-5) Unzip the `Ubuntu bionic` archive and copy it to the SD card. (You can remove the SD card without switching off the Switch)
-6) Now go to `Tools` -> `Partition SD Card` -> `Flash linux`.
-7) Finally go in `home` -> `Nyx options` -> `Dump Joy-con BT`
+1. Insert the SD card into the Switch. (If it's not already done)
+2. Go to `Tools` -> `Partition SD Card`.
+3. Click on `ok` to preserve the files on the card. 
+4. Partition the SD card according to the needs of your node, EXT4 is for linux, And FAT32 must be at least 10GB. 
+5. Unzip the `Ubuntu bionic` archive and copy it to the SD card. (You can remove the SD card without switching off the Switch)
+6. Now go to `Tools` -> `Partition SD Card` -> `Flash linux`.
+7. Finally go in `home` -> `Nyx options` -> `Dump Joy-con BT`
 
 ### Boot and configure Linux
 
