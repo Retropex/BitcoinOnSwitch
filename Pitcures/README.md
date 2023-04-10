@@ -1,1 +1,1 @@
-Juste a folder for pictures
+Just a folder for pictures
