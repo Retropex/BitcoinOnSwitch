@@ -30,9 +30,10 @@ If your Switch is patched you can still use this guide however your Switch will 
 Pour commencer il faut faire entrer votre Switch en mode RCM pour cela on va utilser le RCM jig :
 
 1) Faite glisser le jig sur le port droit de la Switch.
-2) Hold the `Vol+` button.
-3) While holding the `VOL+` button and press the `Power` button.
-4) Release all the buttons.
+<img src="./Pictures/Switch-jig.jpeg" width="50%" height="50%" />
+3) Hold the `Vol+` button.
+4) While holding the `VOL+` button and press the `Power` button.
+5) Release all the buttons.
 
 If your Switch turned on when you press the Power button, it may be that your jig is not pressed enough in the right port or that your Switch is patched.
 If after released all the buttons, the screen of your Switch remained black, it is because the operation probably went well.
