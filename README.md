@@ -48,7 +48,7 @@ Here is a list of those you can use:
 -  [JTegraNX](https://github.com/dylwedma11748/JTegraNX)(Windows/macOS/Linux)
 -  [NXloader](https://github.com/DavidBuchanan314/NXLoader)(Android)
 
-Using the software you have chosen, you will have to inject the `Hekate` payload.
+Using the software you have chosen, you will have to inject the `Hekate.bin` payload. (You must have put the content of the Hakate archive at the root of the sd card)
 
 For most software, all you have to do is press a button to inject the payload. I'll let you refer to the documentation of the chosen software.
 
@@ -60,13 +60,32 @@ You should come across this screen:
 
 **_Be careful_, all the data on your SD card will be erased, it is recommended to use an SD card specifically for this use.**
 
-1) Insert the SD card into the Switch.
+1) Insert the SD card into the Switch. (If it's not already done)
 2) Go to `Tools` -> `Partition SD Card`.
-3) Partition the SD card according to the needs of your node.
-4) Unzip the `Ubuntu bionic` archive and copy it to the SD card. (You can remove the SD card without switching off the Switch)
-5) Now go to `Tools` -> `Partition SD Card` -> `Flash linux`.
-6) Finally go in `home` -> `Nyx options` -> `Dump Joy-con BT`
+3) Click on `ok` to preserve the files on the card. 
+4) Partition the SD card according to the needs of your node, EXT4 is for linux, And FAT32 must be at least 10GB. 
+5) Unzip the `Ubuntu bionic` archive and copy it to the SD card. (You can remove the SD card without switching off the Switch)
+6) Now go to `Tools` -> `Partition SD Card` -> `Flash linux`.
+7) Finally go in `home` -> `Nyx options` -> `Dump Joy-con BT`
 
-### Boot Linux
+### Boot and configure Linux
 
-Maintenant linux devrait pouvoir démarer 
+Now linux should be able to start.
+
+Go to `home` -> `more configuration` -> `Linux`
+
+Once linux has started, follow the on-screen instructions to configure Linux.
+
+It's good linux is installed on your Switch!
+
+### Install Bitcoin Core
+
+On your switch go to the [Bitcoin Core](https://bitcoincore.org/bin/bitcoin-core-22.0/) download page et choisir l'architecture **aarch64** (Here is version 22 of Bitcoin Core)
+
+Follow the instructions on this [page](https://bitcoin.org/en/full-node#linux-instructions) to install the GUI version of Bitcoin Core on Linux.
+
+### Finalization
+
+And now your node supports the bitcoin network!
+
+You can also use your Switch to store your Bitcoin although I **strongly recommend** that you use a Hardware Wallet.
