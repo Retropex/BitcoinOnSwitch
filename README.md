@@ -58,7 +58,7 @@ You should come across this screen:
 
 ### Prepare the SD card
 
-**Be careful, all the data on your SD card will be erased, it is recommended to use an SD card specifically for this use.**
+**_Be careful_, all the data on your SD card will be erased, it is recommended to use an SD card specifically for this use.**
 
 1) Insert the SD card into the Switch.
 2) Go to `Tools` -> `Partition SD Card`.
