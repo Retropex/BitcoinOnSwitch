@@ -54,3 +54,15 @@ For most software, all you have to do is press a button to inject the payload. I
 
 You should come across this screen:
 
+<img src="Pitcures/hakate.png" width="50%" height="50%" />
+
+### Prepare the SD card
+
+**Be careful, all the data on your SD card will be erased, it is recommended to use an SD card specifically for this use.**
+
+1) Insert the SD card into the Switch.
+2) Go to `Tools` -> `Partition SD Card`.
+3) Partition the SD card according to the needs of your node.
+4) Unzip the `Ubuntu bionic` archive and copy it to the SD card. (You can remove the SD card without switching off the Switch)
+5) Now go to `Tools` -> `Partition SD Card` -> `Flash linux`.
+6) Finally go in `home` -> `Nyx options` -> `Dump Joy-con BT`
