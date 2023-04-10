@@ -29,7 +29,7 @@ If your Switch is patched you can still use this guide however your Switch will 
 
 Pour commencer il faut faire entrer votre Switch en mode RCM pour cela on va utilser le RCM jig :
 
-1) Drag the jig on the [right port](https://github.com/Retropex/BitcoinOnSwitch/blob/main/Pitcures/Switch%20jig.jpeg) of the Switch.
+1) Drag the jig on the right port of the Switch.
 2) Hold the `Vol+` button.
 3) While holding the `VOL+` button and press the `Power` button.
 4) Release all the buttons.
