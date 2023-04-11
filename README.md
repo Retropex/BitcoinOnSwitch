@@ -80,7 +80,7 @@ It's good linux is installed on your Switch!
 
 ### Install Bitcoin Core
 
-On your switch go to the [Bitcoin Core](https://bitcoincore.org/bin/bitcoin-core-22.0/) download page et choisir l'architecture **aarch64** (Here is version 22 of Bitcoin Core)
+On your switch go to the [Bitcoin Core](https://bitcoincore.org/bin/bitcoin-core-22.0/) download page And choose the architecture **aarch64** (Here is version 22 of Bitcoin Core)
 
 Follow the instructions on this [page](https://bitcoin.org/en/full-node#linux-instructions) to install the GUI version of Bitcoin Core on Linux.
 
