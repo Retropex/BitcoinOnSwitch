@@ -9,7 +9,7 @@ Prerequisites
 - A computer
 - A Nintendo Switch (V1)
 - A 1TB SD card (Less for a pruned node)
-- [Ubuntu Bionic](https://download.switchroot.org/ubuntu/switchroot-ubuntu-5.0.0-2022-12-23.7z)
+- [Ubuntu Bionic](https://download.switchroot.org/ubuntu-bionic/switchroot-ubuntu-5.1.1-2023-06-12.7z)
 - The latest version of [Hekate](https://github.com/CTCaer/hekate/releases)
 - A payload sending application for Switch
 - [RCM jig](https://www.amazon.com/Switch-Nintendo-Modify-Archive-Simulator/dp/B09GVHZ5B1/ref=sr_1_5?crid=1U506NUGSW4OB&keywords=rcm+switch&qid=1681136130&sprefix=rcm+sw%2Caps%2C443&sr=8-5)
@@ -80,9 +80,7 @@ It's good linux is installed on your Switch!
 
 ### Install Bitcoin Core
 
-On your switch go to the [Bitcoin Core](https://bitcoincore.org/bin/bitcoin-core-22.0/) download page And choose the architecture **aarch64** (Here is version 22 of Bitcoin Core)
-
-Follow the instructions on this [page](https://bitcoin.org/en/full-node#linux-instructions) to install the GUI version of Bitcoin Core on Linux.
+On your switch go to the [Bitcoin Core](https://bitcoinknots.org/files/28.x/28.1.knots20250305/) download page And choose the architecture **aarch64** (Here is version 28.1 of Bitcoin Knots)
 
 ### Finalization
 
