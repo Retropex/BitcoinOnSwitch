@@ -80,7 +80,7 @@ It's good linux is installed on your Switch!
 
 ### Install Bitcoin Core
 
-On your switch go to the [Bitcoin Core](https://bitcoinknots.org/files/28.x/28.1.knots20250305/) download page And choose the architecture **aarch64** (Here is version 28.1 of Bitcoin Knots)
+On your switch go to the [Bitcoin Knots](https://bitcoinknots.org/files/28.x/28.1.knots20250305/) download page And choose the architecture **aarch64** (Here is version 28.1 of Bitcoin Knots)
 
 ### Finalization
 
